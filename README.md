@@ -1,6 +1,7 @@
 # bath-link-expander-and-remove-duplicates
 bath link expander and remove duplicates
-    import requests
+
+        import requests
     
     def resolve_url(url):
         try:
